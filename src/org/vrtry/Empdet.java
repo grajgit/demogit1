@@ -17,6 +17,9 @@ System.out.println("employee age is "+age);
 		short bikeNum = 1234;
 		System.out.println("emp bike num is "+bikeNum);
 		
+		short bikeNum1 = 1234;
+		System.out.println("emp bike num is "+bikeNum1);
+		
 		int pincode = 642126;
 		System.out.println("emp pincode is "+pincode);
 		
