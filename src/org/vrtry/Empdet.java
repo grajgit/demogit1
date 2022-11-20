@@ -23,6 +23,12 @@ System.out.println("employee age is "+age);
 		int pincode = 642126;
 		System.out.println("emp pincode is "+pincode);
 		
+		int pincode1 = 642126;
+		System.out.println("emp pincode is "+pincode1);
+		
+		int pincode2 = 642126;
+		System.out.println("emp pincode is "+pincode2);
+		
 		long phNum = 9790373780l;
 		System.out.println("emp contact num is "+phNum);
 		
