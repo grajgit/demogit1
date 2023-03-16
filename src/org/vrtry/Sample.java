@@ -2,6 +2,8 @@ package org.vrtry;
 
 public class Sample {
 	
+	String s;
+	
 	static void display(String... values){
 		
 				
