@@ -2,7 +2,7 @@ package org.vrtry;
 
 public class Sample {
 	
-	String d;
+	String d = "vvv";
 	
 	static void display(String... values){
 		
