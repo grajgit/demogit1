@@ -2,7 +2,8 @@ package org.vrtry;
 
 public class Sample {
 	
-	String d = "rock";
+
+	String d = "baba";
 	
 	static void display(String... values){
 		
